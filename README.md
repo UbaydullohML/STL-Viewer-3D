@@ -9,9 +9,10 @@ Outputs:
 
 ![Screenshot 2024-02-07 183348](https://github.com/UbaydullohML/STL-Viewer-3D/assets/75980506/97a21be0-b156-4c26-a012-7f16ef56c1c5)
 
+zoom + and zoom - are supported 
+
 ![Screenshot 2024-02-07 183548](https://github.com/UbaydullohML/STL-Viewer-3D/assets/75980506/00d00032-15eb-48b3-b6cb-084c75397db5)
 
-zoom + and zoom - are supported 
 
 ## Setup
 
